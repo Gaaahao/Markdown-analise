@@ -1,6 +1,4 @@
 # Markdown-analise
-none
-
 一个用于统计 Markdown 文档基础指标的小工具。
 
 ## 功能
